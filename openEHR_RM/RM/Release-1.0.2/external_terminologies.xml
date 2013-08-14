@@ -302,7 +302,7 @@
 		<code value="en-ie" Description="English (Ireland)"/>
 		<code value="en-za" Description="English (South Africa)"/>
 		<code value="en-jm" Description="English (Jamaica)"/>
-		<code value="en" Description="English (Caribbean)"/>
+		<code value="en-cb" Description="English (Caribbean)"/>
 		<code value="en-bz" Description="English (Belize)"/>
 		<code value="en-tt" Description="English (Trinidad)"/>
 		<code value="et" Description="Estonian"/>
@@ -335,7 +335,8 @@
 		<code value="ko" Description="Korean (Johab)"/>
 		<code value="lv" Description="Latvian"/>
 		<code value="lt" Description="Lithuanian"/>
-		<code value="mk" Description="FYRO Macedonian ms Malaysian"/>
+		<code value="mk" Description="FYRO Macedonian"/>
+		<code value="ms" Description="Malaysian"/>
 		<code value="mt" Description="Maltese"/>
 		<code value="nb" Description="Norwegian Bokmal"/>
 		<code value="nn" Description="Norwegian Nynorsk"/>
