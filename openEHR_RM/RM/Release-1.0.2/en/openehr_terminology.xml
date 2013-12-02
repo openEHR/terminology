@@ -95,6 +95,8 @@
 		<concept id="586" rubric="Glomerular filtration rate"/>
 		<concept id="655" rubric="Electrical potential time"/>
 		<concept id="685" rubric="Refractive power"/>
+		<concept id="708" rubric="Rate of Change - Pressure" />
+		<concept id="754" rubric="Rate of Change - Frequency" />
 	</group>
 	<group name="MultiMedia">
 		<concept id="387" rubric="audio/DVI4" />
@@ -143,6 +145,7 @@
 		<concept id="517" rubric="application/msword" />
 		<concept id="518" rubric="application/pdf" />
 		<concept id="519" rubric="application/rtf" />
+		<concept id="637" rubric="application/dicom" />
 		<concept id="682" rubric="application/vnd.oasis.opendocument.text" />
 		<concept id="683" rubric="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
 	</group>
