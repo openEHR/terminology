@@ -261,214 +261,206 @@
 		<code value="ISO_8859-1:1987"/>
 	</codeset>
 	<codeset issuer="ISO" openehr_id="languages" external_id="ISO_639-1">
-		<code value="af" Description="Afrikaans"/>
-		<code value="sq" Description="Albanian"/>
-		<code value="ar-sa" Description="Arabic (Saudi Arabia)"/>
-		<code value="ar-iq" Description="Arabic (Iraq)"/>
-		<code value="ar-eg" Description="Arabic (Egypt)"/>
-		<code value="ar-ly" Description="Arabic (Libya)"/>
-		<code value="ar-dz" Description="Arabic (Algeria)"/>
-		<code value="ar-ma" Description="Arabic (Morocco)"/>
-		<code value="ar-tn" Description="Arabic (Tunisia)"/>
-		<code value="ar-om" Description="Arabic (Oman)"/>
-		<code value="ar-ye" Description="Arabic (Yemen)"/>
-		<code value="ar-sy" Description="Arabic (Syria)"/>
-		<code value="ar-jo" Description="Arabic (Jordan)"/>
-		<code value="ar-lb" Description="Arabic (Lebanon)"/>
-		<code value="ar-kw" Description="Arabic (Kuwait)"/>
-		<code value="ar-ae" Description="Arabic (U.A.E.)"/>
-		<code value="ar-bh" Description="Arabic (Bahrain)"/>
-		<code value="ar-qa" Description="Arabic (Qatar)"/>
-		<code value="eu" Description="Basque"/>
-		<code value="bg" Description="Bulgarian"/>
-		<code value="be" Description="Belarusian"/>
-		<code value="ca" Description="Catalan"/>
-		<code value="zh" Description="Chinese"/>
-		<code value="zh-tw" Description="Chinese (Taiwan)"/>
-		<code value="zh-cn" Description="Chinese (PRC)"/>
-		<code value="zh-hk" Description="Chinese (Hong Kong SAR)"/>
-		<code value="zh-sg" Description="Chinese (Singapore)"/>
-		<code value="hr" Description="Croatian"/>
-		<code value="cs" Description="Czech"/>
-		<code value="da" Description="Danish"/>
-		<code value="nl" Description="Dutch (Standard)"/>
-		<code value="nl-be" Description="Dutch (Belgium)"/>
-		<code value="en" Description="English"/>
-		<code value="en-us" Description="English (United States)"/>
-		<code value="en-gb" Description="English (United Kingdom)"/>
-		<code value="en-au" Description="English (Australia)"/>
-		<code value="en-ca" Description="English (Canada)"/>
-		<code value="en-nz" Description="English (New Zealand)"/>
-		<code value="en-ie" Description="English (Ireland)"/>
-		<code value="en-za" Description="English (South Africa)"/>
-		<code value="en-jm" Description="English (Jamaica)"/>
-		<code value="en-cb" Description="English (Caribbean)"/>
-		<code value="en-bz" Description="English (Belize)"/>
-		<code value="en-tt" Description="English (Trinidad)"/>
-		<code value="et" Description="Estonian"/>
-		<code value="fo" Description="Faeroese"/>
-		<code value="fa" Description="Farsi"/>
-		<code value="fi" Description="Finnish"/>
-		<code value="fr" Description="French (Standard)"/>
-		<code value="fr-be" Description="French (Belgium)"/>
-		<code value="fr-ca" Description="French (Canada)"/>
-		<code value="fr-ch" Description="French (Switzerland)"/>
-		<code value="fr-lu" Description="French (Luxembourg)"/>
-		<code value="gd" Description="Gaelic (Scotland)"/>
-		<code value="gd-ie" Description="Gaelic (Ireland)"/>
-		<code value="de" Description="German (Standard)"/>
-		<code value="de-ch" Description="German (Switzerland)"/>
-		<code value="de-at" Description="German (Austria)"/>
-		<code value="de-lu" Description="German (Luxembourg)"/>
-		<code value="de-li" Description="German (Liechtenstein)"/>
-		<code value="el" Description="Greek"/>
-		<code value="he" Description="Hebrew"/>
-		<code value="hi" Description="Hindi"/>
-		<code value="hu" Description="Hungarian"/>
-		<code value="is" Description="Icelandic"/>
-		<code value="id" Description="Indonesian"/>
-		<code value="it" Description="Italian (Standard)"/>
-		<code value="it-ch" Description="Italian (Switzerland)"/>
-		<code value="ja" Description="Japanese"/>
-		<code value="kk" Description="Kasakh"/>
-		<code value="ko" Description="Korean"/>
-		<code value="ko" Description="Korean (Johab)"/>
-		<code value="lv" Description="Latvian"/>
-		<code value="lt" Description="Lithuanian"/>
-		<code value="mk" Description="FYRO Macedonian"/>
-		<code value="ms" Description="Malaysian"/>
-		<code value="mt" Description="Maltese"/>
-		<code value="nb" Description="Norwegian Bokmal"/>
-		<code value="nn" Description="Norwegian Nynorsk"/>
-		<code value="pl" Description="Polish"/>
-		<code value="pt-br" Description="Portuguese (Brazil)"/>
-		<code value="pt" Description="Portuguese (Portugal)"/>
-		<code value="rm" Description="Rhaeto-Romanic"/>
-		<code value="ro" Description="Romanian"/>
-		<code value="ro-mo" Description="Romanian (Moldavia)"/>
-		<code value="ru" Description="Russian"/>
-		<code value="ru-mo" Description="Russian (Moldavia)"/>
-		<code value="sz" Description="Sami (Lappish)"/>
-		<code value="sr" Description="Serbian (Cyrillic)"/>
-		<code value="sr" Description="Serbian (Latin)"/>
-		<code value="sk" Description="Slovak"/>
-		<code value="sl" Description="Slovenian"/>
-		<code value="sb" Description="Sorbian"/>
-		<code value="es" Description="Spanish (Spain ? Traditional)"/>
-		<code value="es-mx" Description="Spanish (Mexico)"/>
-		<code value="es" Description="Spanish (Spain ? Modern)"/>
-		<code value="es-gt" Description="Spanish (Guatemala)"/>
-		<code value="es-cr" Description="Spanish (Costa Rica)"/>
-		<code value="es-pa" Description="Spanish (Panama)"/>
-		<code value="es-do" Description="Spanish (Dominican Republic)"/>
-		<code value="es-ve" Description="Spanish (Venezuela)"/>
-		<code value="es-co" Description="Spanish (Colombia)"/>
-		<code value="es-pe" Description="Spanish (Peru)"/>
-		<code value="es-ar" Description="Spanish (Argentina)"/>
-		<code value="es-ec" Description="Spanish (Ecuador)"/>
-		<code value="es-cl" Description="Spanish (Chile)"/>
-		<code value="es-uy" Description="Spanish (Uruguay)"/>
-		<code value="es-py" Description="Spanish (Paraguay)"/>
-		<code value="es-bo" Description="Spanish (Bolivia)"/>
-		<code value="es-sv" Description="Spanish (El Salvador)"/>
-		<code value="es-hn" Description="Spanish (Honduras)"/>
-		<code value="es-ni" Description="Spanish (Nicaragua)"/>
-		<code value="es-pr" Description="Spanish (Puerto Rico)"/>
-		<code value="sx" Description="Sutu"/>
-		<code value="sv" Description="Swedish"/>
-		<code value="sv-fi" Description="Swedish (Finland)"/>
-		<code value="th" Description="Thai"/>
-		<code value="ts" Description="Tsonga"/>
-		<code value="tn" Description="Tswana"/>
-		<code value="tr" Description="Turkish"/>
-		<code value="uk" Description="Ukrainian"/>
-		<code value="ur" Description="Urdu"/>
-		<code value="ve" Description="Venda"/>
-		<code value="vi" Description="Vietnamese"/>
-		<code value="xh" Description="Xhosa"/>
-		<code value="ji" Description="Yiddish"/>
-		<code value="zu" Description="Zulu"/>
+		<code value="aa" description="Afar"/>
+		<code value="af" description="Afrikaans"/>
+		<code value="sq" description="Albanian"/>
+		<code value="ar-sa" description="Arabic (Saudi Arabia)"/>
+		<code value="ar-iq" description="Arabic (Iraq)"/>
+		<code value="ar-eg" description="Arabic (Egypt)"/>
+		<code value="ar-ly" description="Arabic (Libya)"/>
+		<code value="ar-dz" description="Arabic (Algeria)"/>
+		<code value="ar-ma" description="Arabic (Morocco)"/>
+		<code value="ar-tn" description="Arabic (Tunisia)"/>
+		<code value="ar-om" description="Arabic (Oman)"/>
+		<code value="ar-ye" description="Arabic (Yemen)"/>
+		<code value="ar-sy" description="Arabic (Syria)"/>
+		<code value="ar-jo" description="Arabic (Jordan)"/>
+		<code value="ar-lb" description="Arabic (Lebanon)"/>
+		<code value="ar-kw" description="Arabic (Kuwait)"/>
+		<code value="ar-ae" description="Arabic (U.A.E.)"/>
+		<code value="ar-bh" description="Arabic (Bahrain)"/>
+		<code value="ar-qa" description="Arabic (Qatar)"/>
+		<code value="az" description="Azerbaijani"/>
+		<code value="eu" description="Basque"/>
+		<code value="bg" description="Bulgarian"/>
+		<code value="be" description="Belarusian"/>
+		<code value="ca" description="Catalan"/>
+		<code value="zh" description="Chinese"/>
+		<code value="zh-tw" description="Chinese (Taiwan)"/>
+		<code value="zh-cn" description="Chinese (PRC)"/>
+		<code value="zh-hk" description="Chinese (Hong Kong SAR)"/>
+		<code value="zh-sg" description="Chinese (Singapore)"/>
+		<code value="hr" description="Croatian"/>
+		<code value="cs" description="Czech"/>
+		<code value="da" description="Danish"/>
+		<code value="nl" description="Dutch (Standard)"/>
+		<code value="nl-be" description="Dutch (Belgium)"/>
+		<code value="en" description="English"/>
+		<code value="en-us" description="English (United States)"/>
+		<code value="en-gb" description="English (United Kingdom)"/>
+		<code value="en-au" description="English (Australia)"/>
+		<code value="en-ca" description="English (Canada)"/>
+		<code value="en-nz" description="English (New Zealand)"/>
+		<code value="en-ie" description="English (Ireland)"/>
+		<code value="en-za" description="English (South Africa)"/>
+		<code value="en-jm" description="English (Jamaica)"/>
+		<code value="en" description="English (Caribbean)"/>
+		<code value="en-bz" description="English (Belize)"/>
+		<code value="en-tt" description="English (Trinidad)"/>
+		<code value="et" description="Estonian"/>
+		<code value="fo" description="Faeroese"/>
+		<code value="fa" description="Farsi"/>
+		<code value="fi" description="Finnish"/>
+		<code value="fr" description="French (Standard)"/>
+		<code value="fr-be" description="French (Belgium)"/>
+		<code value="fr-ca" description="French (Canada)"/>
+		<code value="fr-ch" description="French (Switzerland)"/>
+		<code value="fr-lu" description="French (Luxembourg)"/>
+		<code value="gd" description="Gaelic (Scotland)"/>
+		<code value="gd-ie" description="Gaelic (Ireland)"/>
+		<code value="de" description="German (Standard)"/>
+		<code value="de-ch" description="German (Switzerland)"/>
+		<code value="de-at" description="German (Austria)"/>
+		<code value="de-lu" description="German (Luxembourg)"/>
+		<code value="de-li" description="German (Liechtenstein)"/>
+		<code value="el" description="Greek"/>
+		<code value="he" description="Hebrew"/>
+		<code value="hi" description="Hindi"/>
+		<code value="hu" description="Hungarian"/>
+		<code value="is" description="Icelandic"/>
+		<code value="id" description="Indonesian"/>
+		<code value="it" description="Italian (Standard)"/>
+		<code value="it-ch" description="Italian (Switzerland)"/>
+		<code value="ja" description="Japanese"/>
+		<code value="kk" description="Kasakh"/>
+		<code value="km" description="Central Khmer"/>
+		<code value="ko" description="Korean"/>
+		<code value="ko" description="Korean (Johab)"/>
+		<code value="lv" description="Latvian"/>
+		<code value="lt" description="Lithuanian"/>
+		<code value="mk" description="FYRO Macedonian ms Malaysian"/>
+		<code value="mt" description="Maltese"/>
+		<code value="no" description="Norwegian"/>
+		<code value="nb" description="Norwegian Bokmal"/>
+		<code value="nn" description="Norwegian Nynorsk"/>
+		<code value="pl" description="Polish"/>
+		<code value="pt-br" description="Portuguese (Brazil)"/>
+		<code value="pt-pt" description="Portuguese (Portugal)"/>
+		<code value="pt" description="Portuguese"/>
+		<code value="rm" description="Rhaeto-Romanic"/>
+		<code value="ro" description="Romanian"/>
+		<code value="ro-mo" description="Romanian (Moldavia)"/>
+		<code value="ru" description="Russian"/>
+		<code value="ru-mo" description="Russian (Moldavia)"/>
+		<code value="sz" description="Sami (Lappish)"/>
+		<code value="sr" description="Serbian (Cyrillic)"/>
+		<code value="sr" description="Serbian (Latin)"/>
+		<code value="sk" description="Slovak"/>
+		<code value="sl" description="Slovenian"/>
+		<code value="si" description="Sinhala"/>
+		<code value="sb" description="Serbian"/>
+		<code value="es" description="Spanish (Spain ? Traditional)"/>
+		<code value="es-mx" description="Spanish (Mexico)"/>
+		<code value="es" description="Spanish (Spain ? Modern)"/>
+		<code value="es-gt" description="Spanish (Guatemala)"/>
+		<code value="es-cr" description="Spanish (Costa Rica)"/>
+		<code value="es-pa" description="Spanish (Panama)"/>
+		<code value="es-do" description="Spanish (Dominican Republic)"/>
+		<code value="es-ve" description="Spanish (Venezuela)"/>
+		<code value="es-co" description="Spanish (Colombia)"/>
+		<code value="es-pe" description="Spanish (Peru)"/>
+		<code value="es-ar" description="Spanish (Argentina)"/>
+		<code value="es-ec" description="Spanish (Ecuador)"/>
+		<code value="es-cl" description="Spanish (Chile)"/>
+		<code value="es-uy" description="Spanish (Uruguay)"/>
+		<code value="es-py" description="Spanish (Paraguay)"/>
+		<code value="es-bo" description="Spanish (Bolivia)"/>
+		<code value="es-sv" description="Spanish (El Salvador)"/>
+		<code value="es-hn" description="Spanish (Honduras)"/>
+		<code value="es-ni" description="Spanish (Nicaragua)"/>
+		<code value="es-pr" description="Spanish (Puerto Rico)"/>
+		<code value="sx" description="Sutu"/>
+		<code value="sv" description="Swedish"/>
+		<code value="sv-fi" description="Swedish (Finland)"/>
+		<code value="th" description="Thai"/>
+		<code value="ts" description="Tsonga"/>
+		<code value="tn" description="Tswana"/>
+		<code value="tr" description="Turkish"/>
+		<code value="uk" description="Ukrainian"/>
+		<code value="ur" description="Urdu"/>
+		<code value="ve" description="Venda"/>
+		<code value="vi" description="Vietnamese"/>
+		<code value="cy" description="Welsh"/>
+		<code value="cy-gb" description="Welsh (United Kingdom)"/>
+		<code value="cy-ar" description="Welsh (Argentina)"/>
+		<code value="xh" description="Xhosa"/>
+		<code value="ji" description="Yiddish"/>
+		<code value="zu" description="Zulu"/>
 	</codeset>
 	<codeset issuer="IANA" openehr_id="media types" external_id="IANA_media-types">
-		<code value="text/plain"/>
-		<code value="text/html"/>
-		<code value="text/richtext"/>
-		<code value="text/rtf"/>
-		<code value="text/sgml"/>
-		<code value="text/rfc822-headers"/>
-		<code value="text/xml"/>
-		<code value="audio/basic"/>
-		<code value="audio/mpeg"/>
-		<code value="application/pdf"/>
-		<code value="application/msword"/>
-		<code value="audio/DVI4" />
-		<code value="audio/G722" />
-		<code value="audio/G723" />
-		<code value="audio/G726-16" />
-		<code value="audio/G726-24" />
-		<code value="audio/G726-32" />
-		<code value="audio/G726-40" />
-		<code value="audio/G728" />
-		<code value="audio/L8" />
-		<code value="audio/L16" />
-		<code value="audio/LPC" />
-		<code value="audio/G729" />
-		<code value="audio/G729D" />
-		<code value="audio/G729E" />
-		<code value="video/BT656" />
-		<code value="video/CelB" />
-		<code value="video/JPEG" />
-		<code value="video/H261" />
-		<code value="video/H263" />
-		<code value="video/H263-1998" />
-		<code value="video/H263-2000" />
-		<code value="video/MPV" />
-		<code value="audio/mpeg" />
-		<code value="audio/mpeg4-generic" />
-		<code value="audio/L20" />
-		<code value="audio/L24" />
-		<code value="audio/telephone-event" />
-		<code value="video/quicktime" />
-		<code value="text/calendar" />
-		<code value="text/directory" />
-		<code value="text/html" />
-		<code value="text/plain" />
-		<code value="text/rtf" />
-		<code value="text/sgml" />
-		<code value="text/tab-separated-values" />
-		<code value="text/uri-list" />
-		<code value="text/xml" />
-		<code value="text/xml-external-parsed-entity" />
-		<code value="image/cgm" />
-		<code value="image/gif" />
-		<code value="image/png" />
-		<code value="image/tiff" />
-		<code value="image/jpeg" />
-		<code value="application/msword" />
-		<code value="application/pdf" />
-		<code value="application/rtf" />
-		<code value="application/dicom" />
-		<code value="application/vnd.oasis.opendocument.text" />
-		<code value="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
-	</group>  
-	<codeset issuer="openehr" openehr_id="compression algorithms" external_id="openehr_compression_algorithms">
-		<code value="compress"/>
-		<code value="deflate"/>
-		<code value="gzip"/>
-		<code value="zlib"/>
-		<code value="other"/>
-	</codeset>
-	<codeset issuer="openehr" openehr_id="integrity check algorithms" external_id="openehr_integrity_check_algorithms">
-		<code value="SHA-1"/>
-		<code value="SHA-256"/>
-	</codeset>	
-	<codeset issuer="openehr" openehr_id="normal statuses" external_id="openehr_normal_statuses">
-		<code value="HHH"/>
-		<code value="HH"/>
-		<code value="H"/>
-		<code value="N"/>
-		<code value="L"/>
-		<code value="LL"/>
-		<code value="LLL"/>
+	    <code  value="audio/DVI4" />
+	    <code  value="audio/G722" />
+	    <code  value="audio/G723" />
+	    <code  value="audio/G726-16" />
+	    <code  value="audio/G726-24" />
+	    <code  value="audio/G726-32" />
+	    <code  value="audio/G726-40" />
+	    <code  value="audio/G728" />
+	    <code  value="audio/L8" />
+	    <code  value="audio/L16" />
+	    <code  value="audio/LPC" />
+	    <code  value="audio/G729" />
+	    <code  value="audio/G729D" />
+	    <code  value="audio/G729E" />
+	    <code  value="video/BT656" />
+	    <code  value="video/CelB" />
+	    <code  value="video/JPEG" />
+	    <code  value="video/H261" />
+	    <code  value="video/H263" />
+	    <code  value="video/H263-1998" />
+	    <code  value="video/H263-2000" />
+	    <code  value="video/MPV" />
+	    <code  value="audio/basic"/>
+	    <code  value="audio/mpeg" />
+	    <code  value="audio/mpeg4-generic" />
+	    <code  value="audio/L20" />
+	    <code  value="audio/L24" />
+	    <code  value="audio/telephone-event" />
+	    <code  value="video/quicktime" />
+	    <code  value="text/calendar" />
+	    <code  value="text/directory" />
+	    <code  value="text/html" />
+	    <code  value="text/plain" />
+	    <code  value="text/richtext"/>
+	    <code  value="text/rtf" />
+	    <code  value="text/rfc822-headers"/>
+	    <code  value="text/sgml" />
+	    <code  value="text/tab-separated-values" />
+	    <code  value="text/uri-list" />
+	    <code  value="text/xml" />
+	    <code  value="text/xml-external-parsed-entity" />
+	    <code  value="image/cgm" />
+	    <code  value="image/gif" />
+	    <code  value="image/png" />
+	    <code  value="image/tiff" />
+	    <code  value="image/jpeg" />
+	    <code  value="application/msword" />
+	    <code  value="application/pdf" />
+	    <code  value="application/rtf" />
+	    <code  value="application/dicom" />
+	    <code  value="application/vnd.oasis.opendocument.text" />
+	    <code  value="application/vnd.ms-word.document.macroEnabled.12" />
+	    <code  value="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+	    <code  value="application/vnd.ms-word.template.macroEnabled.12" />
+	    <code  value="application/vnd.openxmlformats-officedocument.wordprocessingml.template" />
+	    <code  value="application/vnd.ms-powerpoint.slideshow.macroEnabled.12" />
+	    <code  value="application/vnd.openxmlformats-officedocument.presentationml.slideshow" />
+	    <code  value="application/vnd.ms-powerpoint.presentation.macroEnabled.12" />
+	    <code  value="application/vnd.openxmlformats-officedocument.presentationml.presentation" />
+	    <code  value="application/vnd.ms-excel.sheet.binary.macroEnabled.12" />
+	    <code  value="application/vnd.ms-excel.sheet.macroEnabled.12" />
+	    <code  value="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+	    <code  value="application/vnd.ms-xpsdocument" />
+	    <code  value="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
 	</codeset>
 </terminology>
