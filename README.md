@@ -20,7 +20,7 @@ On publication, this branch will be RELEASE-2.0.0, reflecting the breaking chang
 Based on java-lib terminology files - [SPECPR-25](https://openehr.atlassian.net/browse/SPECPR-25)
 
 New directory structure  
-Removed mediatypes from openEHR internal terminology, now carried as external terminology  
-Added mediatypes [SPECPR-97](https://openehr.atlassian.net/browse/SPECPR-97)  
-Added Khmer language [SPECPR-24](https://openehr.atlassian.net/browse/SPECPR-24  
-Added XML schema for Terminology XML files [SPECPR-3](https://openehr.atlassian.net/browse/SPECPR-3)  
+* Removed mediatypes from openEHR internal terminology, now carried as external terminology  
+* Added mediatypes [SPECPR-97](https://openehr.atlassian.net/browse/SPECPR-97)  
+* Added Khmer language [SPECPR-24](https://openehr.atlassian.net/browse/SPECPR-24)  
+* Added XML schema for Terminology XML files [SPECPR-3](https://openehr.atlassian.net/browse/SPECPR-3)  
