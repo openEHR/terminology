@@ -3,6 +3,8 @@ terminology
 
 openEHR reference model terminology, and artefacts for binding or using standard terminologies.
 
+Any issues, change requests or problem reports, including requests for new terms should be posted via the [openEHR Specifications JIRA Tracker](https://openehr.atlassian.net/projects/SPECRM) 
+
 #Draft RELEASE-2.0.0-alpha
 
 This is an initial attempt to establish a more solid baseline for terminology list governance -Feedback welcome.
