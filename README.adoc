@@ -6,21 +6,24 @@ openEHR reference model terminology, and artefacts for binding or using standard
 *Any issues, change requests or problem reports, including requests for new terms should be posted via the https://openehr.atlassian.net/projects/SPECRM[openEHR Specifications JIRA Tracker]*
 
 
-== Draft RELEASE-2.0.0-alpha
+== RELEASE-2.0.0
 
-This is an initial attempt to establish a more solid baseline for terminology list governance -Feedback welcome.
+This release establishes a more solid baseline for terminology list governance.
 
 Some of the https://openehr.atlassian.net/browse/SPECPR-95?jql=project%20%3D%20SPECPR%20AND%20component%20%3D%20%22openEHR%20Terminology%22[outstanding terminology SPECPRs] have been fixed here, other fixes will be applied in later commits.
 
-The intention is to use the Git Tag mechanism to formally label Releases e.g. RELEASE-2.0.0,using the semver.org mechanism adopted by the clinical models.
+The the Git Tag mechanism will be used to formally label Releases e.g. RELEASE-2.0.0, using the semver.org mechanism adopted by the clinical models.
 
-The current master is at RELEASE-1.0.0 and reflects current usage within the java-libs repository, currently the 'source-of-truth' for most implementers.
+This branch will be RELEASE-2.0.0, reflecting the breaking changes in the file format and content.
 
-On publication, this branch will be RELEASE-2.0.0, reflecting the breaking changes in the file format and content.
+**19 Feb 2017**
+
+== Changes from RELEASE-1.0.0
+
+* Added Japanese translation.
+
 
 **17 June 2016-06**
-
-Simplified folder structure to remove RM version info.
 
 == Changes from RELEASE-1.0.0
 
