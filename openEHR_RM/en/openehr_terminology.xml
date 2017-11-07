@@ -1,4 +1,4 @@
-<terminology name="openehr" language="en">	
+<terminology name="openehr" language="en">
 	<codeset issuer="openehr" openehr_id="compression algorithms" external_id="openehr_compression_algorithms">
 		<code value="compress"/>
 		<code value="deflate"/>
@@ -9,14 +9,14 @@
 	<codeset issuer="openehr" openehr_id="integrity check algorithms" external_id="openehr_integrity_check_algorithms">
 		<code value="SHA-1"/>
 		<code value="SHA-256"/>
-	</codeset>	
+	</codeset>
 	<codeset issuer="openehr" openehr_id="normal statuses" external_id="openehr_normal_statuses">
 		<code value="HHH"/>
 		<code value="HH"/>
 		<code value="H"/>
 		<code value="N"/>
 		<code value="L"/>
-		<code value="LL"/> 
+		<code value="LL"/>
 		<code value="LLL"/>
 	</codeset>
 	<group name="attestation reason">
@@ -269,14 +269,14 @@
 		<concept id="264" rubric="guardian"/>
 		<concept id="39" rubric="maternal aunt"/>
 		<concept id="8" rubric="maternal"/>
-		<concept id="7" rubric="maternal "/>
+		<concept id="7" rubric="maternal grandmother"/>
 		<concept id="38" rubric="maternal uncle"/>
 		<concept id="189" rubric="neonate"/>
 		<concept id="254" rubric="parent"/>
 		<concept id="22" rubric="partner/spouse"/>
 		<concept id="41" rubric="paternal aunt"/>
-		<concept id="36" rubric="paternal grandfa-"/>
-		<concept id="37" rubric="paternal grand-"/>
+		<concept id="36" rubric="paternal grandfather-"/>
+		<concept id="37" rubric="paternal grandmother"/>
 		<concept id="40" rubric="paternal uncle"/>
 		<concept id="27" rubric="sibling"/>
 		<concept id="24" rubric="sister"/>
@@ -307,14 +307,14 @@
 	<group name="setting">
 		<concept id="225" rubric="home"/>
 		<concept id="227" rubric="emergency care"/>
-		<concept id="228" rubric="primary medical "/>
-		<concept id="229" rubric="primary nursing "/>
-		<concept id="230" rubric="primary allied "/>
+		<concept id="228" rubric="primary medical care"/>
+		<concept id="229" rubric="primary nursing care"/>
+		<concept id="230" rubric="primary allied health care"/>
 		<concept id="231" rubric="midwifery care"/>
-		<concept id="232" rubric="secondary medical "/>
-		<concept id="233" rubric="secondary nursing "/>
-		<concept id="234" rubric="secondary allied "/>
-		<concept id="235" rubric="complementary "/>
+		<concept id="232" rubric="secondary medical care"/>
+		<concept id="233" rubric="secondary nursing care"/>
+		<concept id="234" rubric="secondary allied health care"/>
+		<concept id="235" rubric="complementary health care"/>
 		<concept id="236" rubric="dental care"/>
 		<concept id="237" rubric="nursing home care"/>
 		<concept id="238" rubric="other care"/>
