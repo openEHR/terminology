@@ -3,7 +3,7 @@
 openEHR reference model terminology, and artefacts for binding or using standard terminologies.
 
 == Reporting issues or requesting new terms
-*Any issues, change requests or problem reports, including requests for new terms should be posted via the https://openehr.atlassian.net/projects/SPECRM[openEHR Specifications JIRA Tracker]*
+*Any issues, change requests or problem reports, including requests for new terms should be posted via the https://openehr.atlassian.net/projects/SPECPR[openEHR Specifications JIRA Tracker]*
 
 
 == RELEASE-2.1.0
