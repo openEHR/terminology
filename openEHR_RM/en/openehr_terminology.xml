@@ -268,14 +268,14 @@
 		<concept id="29" rubric="daughter"/>
 		<concept id="264" rubric="guardian"/>
 		<concept id="39" rubric="maternal aunt"/>
-		<concept id="8" rubric="maternal"/>
+		<concept id="8" rubric="maternal grandfather"/>
 		<concept id="7" rubric="maternal grandmother"/>
 		<concept id="38" rubric="maternal uncle"/>
 		<concept id="189" rubric="neonate"/>
 		<concept id="254" rubric="parent"/>
 		<concept id="22" rubric="partner/spouse"/>
 		<concept id="41" rubric="paternal aunt"/>
-		<concept id="36" rubric="paternal grandfather-"/>
+		<concept id="36" rubric="paternal grandfather"/>
 		<concept id="37" rubric="paternal grandmother"/>
 		<concept id="40" rubric="paternal uncle"/>
 		<concept id="27" rubric="sibling"/>
