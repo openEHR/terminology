@@ -6,6 +6,11 @@ openEHR reference model terminology, and artefacts for binding or using standard
 *Any issues, change requests or problem reports, including requests for new terms should be posted via the https://openehr.atlassian.net/projects/SPECPR[openEHR Specifications JIRA Tracker]*
 
 
+== RELEASE-2.2.0
+
+- removed 'no' language which does not formally exist.
+See https://openehr.atlassian.net/browse/SPECPR-247
+
 == RELEASE-2.1.0
 
 - Corrects truncated rubrics in 'care-settings' and 'relationship' groups.
