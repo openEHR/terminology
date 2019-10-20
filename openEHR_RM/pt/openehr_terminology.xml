@@ -235,6 +235,7 @@
 		<concept id="166" rubric="cancelar"/>
 		<concept id="542" rubric="etapa adiada"/>
 		<concept id="539" rubric="agendar"/>
+		<concept id="534" rubric="*scheduled step(en)"/>	
 		<concept id="540" rubric="começar"/>
 		<concept id="541" rubric="executar"/>
 		<concept id="543" rubric="etapa ativa"/>

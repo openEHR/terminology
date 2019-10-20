@@ -168,7 +168,7 @@
 		<concept id="685" rubric="Refractive power"/>
 	</group>
 	<group name="version lifecycle state">
-		<concept id="532" rubric="complete"/>
+		<concept id="532" rubric="completed"/>
 		<concept id="553" rubric="incomplete"/>
 		<concept id="523" rubric="deleted"/>
 	</group>

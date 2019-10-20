@@ -5,11 +5,14 @@ openEHR reference model terminology, and artefacts for binding or using standard
 == Reporting issues or requesting new terms
 *Any issues, change requests or problem reports, including requests for new terms should be posted via the https://openehr.atlassian.net/projects/SPECPR[openEHR Specifications JIRA Tracker]*
 
+== RELEASE-2.3.0
 
-== RELEASE-2.2.0
+- added missing instruction transition term, and pt, jp translations
+See https://openehr.atlassian.net/browse/SPECPR-276
 
-- removed 'no' language which does not formally exist.
-See https://openehr.atlassian.net/browse/SPECPR-247
+- corrected inconsistent term rubric of concept 532
+See https://openehr.atlassian.net/browse/SPECPR-51
+
 
 == RELEASE-2.2.0
 
