@@ -13,6 +13,8 @@ See https://openehr.atlassian.net/browse/SPECPR-276
 - corrected inconsistent term rubric of concept 532
 See https://openehr.atlassian.net/browse/SPECPR-51
 
+- added 'episodic' term to composition caetgory
+See https://openehr.atlassian.net/browse/SPECPR-335
 
 == RELEASE-2.2.0
 
