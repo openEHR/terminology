@@ -35,6 +35,8 @@
 	<group name="categoria de composição">
 		<concept id="431" rubric="persistente"/>
 		<concept id="433" rubric="evento"/>
+		<concept id="435" rubric="*episodic(en)"/>
+
 	</group>
 	<!--
 	<group name="multimídia">

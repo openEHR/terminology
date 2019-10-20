@@ -34,6 +34,7 @@
 	</group>
 	<group name="composition category">
 		<concept id="431" rubric="persistent"/>
+		<concept id="435" rubric="episodic"/>
 		<concept id="433" rubric="event"/>
 	</group>
 	<!--

@@ -35,6 +35,7 @@
 	<group name="コンポジションカテゴリ">
 		<concept id="431" rubric="永続"/>
 		<concept id="433" rubric="イベント"/>
+		<concept id="435" rubric="*episodic(en)"/>
 	</group>
 	<!--
 	<group name="MultiMedia">
