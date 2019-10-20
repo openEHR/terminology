@@ -11,6 +11,11 @@ openEHR reference model terminology, and artefacts for binding or using standard
 - removed 'no' language which does not formally exist.
 See https://openehr.atlassian.net/browse/SPECPR-247
 
+== RELEASE-2.2.0
+
+- removed 'no' language which does not formally exist.
+See https://openehr.atlassian.net/browse/SPECPR-247
+
 == RELEASE-2.1.0
 
 - Corrects truncated rubrics in 'care-settings' and 'relationship' groups.

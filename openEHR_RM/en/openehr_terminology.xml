@@ -235,6 +235,7 @@
 		<concept id="166" rubric="cancel"/>
 		<concept id="542" rubric="postponed step"/>
 		<concept id="539" rubric="schedule"/>
+		<concept id="534" rubric="scheduled step"/>	
 		<concept id="540" rubric="start"/>
 		<concept id="541" rubric="do"/>
 		<concept id="543" rubric="active step"/>
