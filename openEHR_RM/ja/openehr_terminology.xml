@@ -1,4 +1,4 @@
-<terminology name="openehr" language="en">	
+<terminology name="openehr" language="ja">	
 	<codeset issuer="openehr" openehr_id="compression algorithms" external_id="openehr_compression_algorithms">
 		<code value="圧縮"/>
 		<code value="展開"/>
