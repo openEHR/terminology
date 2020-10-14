@@ -70,18 +70,18 @@
 		<concept id="415" rubric="text/kalender" />
 		<concept id="416" rubric="text/adresboek" />
 		<concept id="417" rubric="text/html" />
-		<concept id="418" rubric="text/plain" />
+		<concept id="418" rubric="text/plat" />
 		<concept id="419" rubric="text/rtf" />
 		<concept id="420" rubric="text/sgml" />
-		<concept id="421" rubric="text/tab-separated-values" />
-		<concept id="422" rubric="text/uri-list" />
+		<concept id="421" rubric="text/tab-gescheiden-waardes" />
+		<concept id="422" rubric="text/uri-lijst" />
 		<concept id="423" rubric="text/xml" />
-		<concept id="424" rubric="text/xml-external-parsed-entity" />
+		<concept id="424" rubric="text/xml-extern-geparsede-entiteit" />
 		<concept id="425" rubric="image/cgm" />
+		<concept id="429" rubric="image/jpeg" />
 		<concept id="426" rubric="image/gif" />
 		<concept id="427" rubric="image/png" />
 		<concept id="428" rubric="image/tiff" />
-		<concept id="429" rubric="image/jpeg" />
 		<concept id="517" rubric="application/msword" />
 		<concept id="518" rubric="application/pdf" />
 		<concept id="519" rubric="application/rtf" />
@@ -91,130 +91,131 @@
 	</group>
 	-->
 	<group name="property">
-		<concept id="339" rubric="Acceleration"/>
-		<concept id="342" rubric="Acceleration, angular"/>
-		<concept id="381" rubric="Amount (Eq)"/>
-		<concept id="384" rubric="Amount (mole)"/>
-		<concept id="497" rubric="Angle, plane"/>
-		<concept id="500" rubric="Angle, solid"/>
-		<concept id="335" rubric="Area"/>
-		<concept id="119" rubric="Concentration"/>
-		<concept id="350" rubric="Density"/>
-		<concept id="362" rubric="Diffusion coefficient"/>
-		<concept id="501" rubric="Electrical capacitance"/>
-		<concept id="498" rubric="Electrical charge"/>
-		<concept id="502" rubric="Electrical conductance"/>
-		<concept id="334" rubric="Electrical current"/>
-		<concept id="377" rubric="Electrical field strength"/>
-		<concept id="655" rubric="Electrical potential time"/>
-		<concept id="121" rubric="Energy"/>
-		<concept id="366" rubric="Energy density"/>
-		<concept id="508" rubric="Energy dose"/>
-		<concept id="365" rubric="Energy per area"/>
-		<concept id="364" rubric="Energy, linear"/>
-		<concept id="347" rubric="Flow rate, mass"/>
-		<concept id="352" rubric="Flow rate, mass/force"/>
-		<concept id="351" rubric="Flow rate, mass/volume"/>
-		<concept id="126" rubric="Flow rate, volume"/>
-		<concept id="348" rubric="Flux, mass"/>
-		<concept id="355" rubric="Force"/>
-		<concept id="358" rubric="Force per mass"/>
-		<concept id="357" rubric="Force, body"/>
-		<concept id="382" rubric="Frequency"/>
+		<concept id="339" rubric="Versnelling"/>
+		<concept id="342" rubric="Versnelling, hoekig"/>
+		<concept id="381" rubric="Hoeveelheid (val)"/>
+		<concept id="384" rubric="Hoeveelheid (mol)"/>
+		<concept id="497" rubric="Hoek, vlak"/>
+		<concept id="500" rubric="Hoek, solide"/>
+		<concept id="335" rubric="Oppervlakte"/>
+		<concept id="119" rubric="Concentratie"/>
+		<concept id="350" rubric="Dichtheid"/>
+		<concept id="362" rubric="Diffusie coëfficient"/>
+		<concept id="501" rubric="Electrische capaciteit"/>
+		<concept id="498" rubric="Electrische lading"/>
+		<concept id="502" rubric="Electrische geleiding"/>
+		<concept id="334" rubric="Electrische stroom"/>
+		<concept id="377" rubric="Electrische veldsterkte"/>
+		<concept id="655" rubric="Electrische potentiaal tijd potential time"/>
+		<concept id="121" rubric="Energie"/>
+		<concept id="366" rubric="Energie dichtheid"/>
+		<concept id="508" rubric="Energie dosis"/>
+		<concept id="365" rubric="Energie per oppervlakte"/>
+		<concept id="364" rubric="Energie, lineair"/>
+		<concept id="347" rubric="Doorloopsnelheid, massaa"/>
+		<concept id="352" rubric="Doorloopsnelheid, massaa/kracht"/>
+		<concept id="351" rubric="Doorloopsnelheid, massa/volume"/>
+		<concept id="126" rubric="Doorloopsnelheid, volume"/>
+		<concept id="348" rubric="Flux, massa"/>
+		<concept id="355" rubric="Kracht"/>
+		<concept id="358" rubric="Kracht per massa"/>
+		<concept id="357" rubric="Kracht, lichaam"/>
+		<concept id="382" rubric="Frequentie"/>
 		<concept id="586" rubric="Glomerular filtration rate"/>
-		<concept id="373" rubric="Heat transfer coefficient"/>
-		<concept id="505" rubric="Illuminance"/>
-		<concept id="379" rubric="Inductance"/>
-		<concept id="122" rubric="Length"/>
-		<concept id="499" rubric="Light intensity"/>
-		<concept id="123" rubric="Loudness"/>
-		<concept id="504" rubric="Luminous flux"/>
-		<concept id="378" rubric="Magnetic flux"/>
-		<concept id="503" rubric="Magnetic flux density"/>
-		<concept id="124" rubric="Mass"/>
-		<concept id="385" rubric="Mass (IU)"/>
-		<concept id="445" rubric="Mass (Units)"/>
-		<concept id="349" rubric="Mass per area"/>
-		<concept id="344" rubric="Moment inertia, area"/>
-		<concept id="345" rubric="Moment inertia, mass"/>
-		<concept id="340" rubric="Momentum"/>
-		<concept id="346" rubric="Momentum, flow rate"/>
-		<concept id="343" rubric="Momentum, angular"/>
-		<concept id="363" rubric="Power"/>
-		<concept id="369" rubric="Power density"/>
-		<concept id="368" rubric="Power flux"/>
-		<concept id="367" rubric="Power, linear"/>
-		<concept id="125" rubric="Pressure"/>
-		<concept id="507" rubric="Proportion"/>
+		<concept id="373" rubric="Warmte overbrenings coëfficient"/>
+		<concept id="505" rubric="Verlichtingssterkte	"/>
+		<concept id="379" rubric="Inductie"/>
+		<concept id="122" rubric="Lengte"/>
+		<concept id="499" rubric="Licht intensiteit"/>
+		<concept id="123" rubric="Luidheid"/>
+		<concept id="504" rubric="Lichtstroom"/>
+		<concept id="378" rubric="Magnetische flux"/>
+		<concept id="503" rubric="Magnetisch flux dichtheid"/>
+		<concept id="124" rubric="Massa"/>
+		<concept id="385" rubric="Massa (IU)"/>
+		<concept id="445" rubric="Massa (Eenheden)"/>
+		<concept id="349" rubric="Massa per oppervlakte"/>
+		<concept id="344" rubric="Moment inertie, oppervlakte"/>
+		<concept id="345" rubric="Moment inertia, massa"/>
+		<concept id="340" rubric="Impuls"/>
+		<concept id="346" rubric="Impuls, Doorloopsnelheid"/>
+		<concept id="343" rubric="Impuls, hoekig"/>
+		<concept id="363" rubric="Kracht"/>
+		<concept id="369" rubric="Kracht dichtheid"/>
+		<concept id="368" rubric="Kracht flux"/>
+		<concept id="367" rubric="Kracht, lineair"/>
+		<concept id="125" rubric="Druk"/>
+		<concept id="507" rubric="Proportie"/>
+		 <!--nog vertalen  -->
 		<concept id="380" rubric="Qualified real"/>
-		<concept id="506" rubric="Radioactivity"/>
-		<concept id="375" rubric="Resistance"/>
-		<concept id="370" rubric="Specific energy"/>
-		<concept id="371" rubric="Specific heat, gas constant"/>
-		<concept id="337" rubric="Specific surface"/>
-		<concept id="336" rubric="Specific volume"/>
-		<concept id="354" rubric="Specific weight"/>
-		<concept id="356" rubric="Surface tension"/>
-		<concept id="127" rubric="Temperature"/>
-		<concept id="372" rubric="Thermal conductivity"/>
-		<concept id="128" rubric="Time"/>
-		<concept id="359" rubric="Torque"/>
-		<concept id="338" rubric="Velocity"/>
-		<concept id="341" rubric="Velocity, angular"/>
-		<concept id="360" rubric="Velocity, dynamic"/>
-		<concept id="361" rubric="Velocity, kinematic"/>
-		<concept id="374" rubric="Voltage, electrical"/>
+		<concept id="506" rubric="Radioactiviteit"/>
+		<concept id="375" rubric="Weerstand"/>
+		<concept id="370" rubric="Specifieke energie"/>
+		<concept id="371" rubric="Specifieke warmte, gas constante"/>
+		<concept id="337" rubric="Specifiek oppervlakte"/>
+		<concept id="336" rubric="Specifiek volume"/>
+		<concept id="354" rubric="Specifiek gewicht"/>
+		<concept id="356" rubric="Oppervlakte spanning"/>
+		<concept id="127" rubric="Temperatuur"/>
+		<concept id="372" rubric="Warmtegeleiding"/>
+		<concept id="128" rubric="Tijd"/>
+		<concept id="359" rubric="Moment"/>
+		<concept id="338" rubric="Snelheid"/>
+		<concept id="341" rubric="Snelheid, hoekig"/>
+		<concept id="360" rubric="Snelheid, dynamisch"/>
+		<concept id="361" rubric="Snelheid, kinetisch"/>
+		<concept id="374" rubric="Voltage, electrisch"/>
 		<concept id="129" rubric="Volume"/>
-		<concept id="130" rubric="Work"/>
-		<concept id="685" rubric="Refractive power"/>
+		<concept id="130" rubric="Arbeid"/>
+		<concept id="685" rubric="Refractie kracht"/>
 	</group>
 	<group name="version lifecycle state">
-		<concept id="532" rubric="complete"/>
-		<concept id="553" rubric="incomplete"/>
-		<concept id="523" rubric="deleted"/>
+		<concept id="532" rubric="compleet"/>
+		<concept id="553" rubric="incompleet"/>
+		<concept id="523" rubric="verwijderd"/>
 	</group>
 	<group name="participation function">
-		<concept id="253" rubric="unknown"/>
+		<concept id="253" rubric="onbekend"/>
 	</group>
 	<group name="null flavours">
-		<concept id="271" rubric="no information"/>
-		<concept id="253" rubric="unknown"/>
-		<concept id="272" rubric="masked"/>
-		<concept id="273" rubric="not applicable"/>
+		<concept id="271" rubric="geen informatie"/>
+		<concept id="253" rubric="onbekend"/>
+		<concept id="272" rubric="gemaskeerd"/>
+		<concept id="273" rubric="niet van toepassing"/>
 	</group>
 	<group name="participation mode">
-		<concept id="193" rubric="not specified"/>
-		<concept id="216" rubric="face-to-face communication"/>
-		<concept id="223" rubric="interpreted face-to-face communication"/>
-		<concept id="217" rubric="signing (face-to-face)"/>
-		<concept id="195" rubric="live audiovisual; videoconference; videophone"/>
-		<concept id="198" rubric="videoconferencing"/>
-		<concept id="197" rubric="videophone"/>
-		<concept id="218" rubric="signing over video"/>
-		<concept id="224" rubric="interpreted video communication"/>
-		<concept id="194" rubric="asynchronous audiovisual; recorded video"/>
-		<concept id="196" rubric="recorded video"/>
-		<concept id="202" rubric="live audio-only; telephone; internet phone; teleconference"/>
-		<concept id="204" rubric="telephone"/>
-		<concept id="203" rubric="teleconference"/>
-		<concept id="205" rubric="internet telephone"/>
-		<concept id="222" rubric="interpreted audio-only"/>
-		<concept id="199" rubric="asynchronous audio-only; dictated; voice mail"/>
-		<concept id="200" rubric="dictated"/>
-		<concept id="201" rubric="voice-mail"/>
-		<concept id="212" rubric="live text-only; internet chat; SMS chat; interactive written note"/>
+		<concept id="193" rubric="niet gespecificeerd"/>
+		<concept id="216" rubric="face-to-face communicatie"/>
+		<concept id="223" rubric="geïnterpreteerde face-to-face communicatie"/>
+		<concept id="217" rubric="gebare (face-to-face)"/>
+		<concept id="195" rubric="live audiovisueel; videoconferentie; videofoon"/>
+		<concept id="198" rubric="videobellen"/>
+		<concept id="197" rubric="videofoon"/>
+		<concept id="218" rubric="gebaren via video"/>
+		<concept id="224" rubric="video communicatie"/>
+		<concept id="194" rubric="asynchroon audiovisueel; opgenomen video"/>
+		<concept id="196" rubric="opgenomen video"/>
+		<concept id="202" rubric="live geluid; telefoon; internet bellen; teleconferentie"/>
+		<concept id="204" rubric="telefoon"/>
+		<concept id="203" rubric="teleconferentie"/>
+		<concept id="205" rubric="internetbellen"/>
+		<concept id="222" rubric="geïnterpreteerd geluid"/>
+		<concept id="199" rubric="asynchroon geluid; ingesproken; voicemail"/>
+		<concept id="200" rubric="ingesproken"/>
+		<concept id="201" rubric="voicemail"/>
+		<concept id="212" rubric="live text; internet chat; SMS chat; interactief geschreven notitie"/>
 		<concept id="213" rubric="internet chat"/>
 		<concept id="214" rubric="SMS chat"/>
-		<concept id="215" rubric="interactive written note"/>
-		<concept id="206" rubric="asynchronous text; email; fax; letter; handwritten note; SMS message"/>
-		<concept id="211" rubric="handwritten note"/>
-		<concept id="210" rubric="printed/typed letter"/>
-		<concept id="207" rubric="email"/>
+		<concept id="215" rubric="interactief geschreven notitie"/>
+		<concept id="206" rubric="asynchrone text; e-mail; fax; brief; handgeschreven memo; SMS bericht"/>
+		<concept id="211" rubric="handgeschreven bericht"/>
+		<concept id="210" rubric="geprint/geschreven brief"/>
+		<concept id="207" rubric="e-mail"/>
 		<concept id="208" rubric="facsimile/telefax"/>
-		<concept id="221" rubric="translated text"/>
-		<concept id="209" rubric="SMS message"/>
-		<concept id="219" rubric="physically present"/>
-		<concept id="220" rubric="physically remote"/>
+		<concept id="221" rubric="vertaalde text"/>
+		<concept id="209" rubric="SMS berichte"/>
+		<concept id="219" rubric="fysiek aanwezig"/>
+		<concept id="220" rubric="fysiek op afstand"/>
 	</group>
 	<group name="instruction states">
 		<concept id="524" rubric="initial"/>
