@@ -5,6 +5,13 @@ openEHR reference model terminology, and artefacts for binding or using standard
 == Reporting issues or requesting new terms
 *Any issues, change requests or problem reports, including requests for new terms should be posted via the https://openehr.atlassian.net/projects/SPECPR[openEHR Specifications JIRA Tracker]*
 
+== latest
+
+- repository blocked for editing - content is now imported at https://github.com/openEHR/specifications-TERM/tree/master/computable/XML
+
+- added Spanish (es) translations
+See https://openehr.atlassian.net/browse/SPECPR-401, https://openehr.atlassian.net/browse/SPECTERM-12
+
 == RELEASE-2.3.0
 
 - added missing instruction transition term, and pt, jp translations
