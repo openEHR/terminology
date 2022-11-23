@@ -2,6 +2,15 @@
 
 openEHR reference model terminology, and artefacts for binding or using standard terminologies.
 
+
+> **Note**
+> 
+> **This repository is now archived and read-only.**
+>
+> The original content is migrated to https://github.com/openEHR/specifications-TERM/tree/master/computable/XML.
+
+---
+
 == Reporting issues or requesting new terms
 *Any issues, change requests or problem reports, including requests for new terms should be posted via the https://openehr.atlassian.net/projects/SPECPR[openEHR Specifications JIRA Tracker]*
 
