@@ -37,6 +37,7 @@
 		<concept id="435" rubric="episódico"/>
 		<concept id="433" rubric="evento"/>
 	</group>
+	<!--
 	<group name="MultiMedia">
 		<concept id="387" rubric="audio/DVI4" />
 		<concept id="388" rubric="audio/G722" />
@@ -88,6 +89,7 @@
 		<concept id="682" rubric="application/vnd.oasis.opendocument.text" />
 		<concept id="683" rubric="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
 	</group>  
+	-->
 	<group name="property">
 		<concept id="339" rubric="Aceleración"/>
 		<concept id="342" rubric="Aceleración, angular"/>
